@@ -23,7 +23,7 @@ group :assets do
 end
 
 gem 'jquery-rails', '2.0.2'
-
+#bla test
 
 group :production do
   gem 'pg', '0.12.2'
